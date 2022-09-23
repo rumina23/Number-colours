@@ -1,0 +1,15 @@
+Numbers:
+1: Reading all numbers using Python (open method)
+2: Saving all numbers in 'numbers' list. 
+3: Sorting them.
+4: Check which number occurs the most.
+5: Display the one which occurs most with its occurence.
+___________________
+
+Colors:
+1: Reading All Lines from text file using Python
+2: Saving all lines and going over them using a loop.
+3: checking which words occur how many times.
+4: Displaying the most occuring color and its occurence.
+5: Displaying the number of times the colors are different in a row.
+6: Displaying the total number of times the colors are same.
